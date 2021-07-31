@@ -1,0 +1,83 @@
+Name:    Jessica Page
+Course:  Programming Fundamentals II
+Program: 12
+
+Enter the employee's first name:
+John
+Enter the employee's last name:
+Doe
+Enter the employee's pay rate:
+50.10
+Enter number of hours employee worked for Week 1:
+40
+Enter number of hours employee worked for Week 2:
+30
+Enter number of hours employee worked for Week 3:
+40
+Enter number of hours employee worked for Week 4:
+35
+Name: John Doe
+Pay rate: $50.10
+Regular hours worked: 145
+Overtime hours worked: 0
+Total hours worked: 145
+Monthly regular pay: $7264.50
+Monthly overtime pay: $0.00
+Monthly gross pay: $7264.50
+Monthly taxes: $1598.19
+Monthly net pay: $5666.31
+Continue? Enter yes or no:
+yes
+Enter the employee's first name:
+Jane
+Enter the employee's last name:
+Doe
+Enter the employee's pay rate:
+55.20
+Enter number of hours employee worked for Week 1:
+40
+Enter number of hours employee worked for Week 2:
+40
+Enter number of hours employee worked for Week 3:
+40
+Enter number of hours employee worked for Week 4:
+40
+Name: Jane Doe
+Pay rate: $55.20
+Regular hours worked: 160
+Overtime hours worked: 0
+Total hours worked: 160
+Monthly regular pay: $8832.00
+Monthly overtime pay: $0.00
+Monthly gross pay: $8832.00
+Monthly taxes: $1943.04
+Monthly net pay: $6888.96
+Continue? Enter yes or no:
+yes
+Enter the employee's first name:
+Jesse
+Enter the employee's last name:
+Page
+Enter the employee's pay rate:
+75.50
+Enter number of hours employee worked for Week 1:
+50
+Enter number of hours employee worked for Week 2:
+35
+Enter number of hours employee worked for Week 3:
+40
+Enter number of hours employee worked for Week 4:
+55
+Name: Jesse Page
+Pay rate: $75.50
+Regular hours worked: 160
+Overtime hours worked: 20
+Total hours worked: 180
+Monthly regular pay: $12080.00
+Monthly overtime pay: $2265.00
+Monthly gross pay: $14345.00
+Monthly taxes: $4446.95
+Monthly net pay: $9898.05
+Continue? Enter yes or no:
+no
+Press any key to continue . . .
